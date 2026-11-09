@@ -16,10 +16,9 @@ A candidate qualifies as an implementation of the requested artifact only when
 
 A repository that merely shares a title substring, that implements a *different*
 artifact with a different identifier, that only lists or links to the report,
-that is an unrelated product mentioning the key phrase in its metadata, or that
-is only a mirror of another repository does **not** qualify. Repositories whose
-README states that they are a different artifact, or that they contain no
-implementation, are explicitly excluded.
+or that is an unrelated product mentioning the key phrase in its metadata does
+**not** qualify. Repositories whose README states that they are a different
+artifact, or that they contain no implementation, are explicitly excluded.
 
 ## Traction metric
 
