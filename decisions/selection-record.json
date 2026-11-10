@@ -1,23 +1,12 @@
 {
-  "case_reference": "SRC-2026-8814",
-  "artifact_title": "Elastic Window Routing for Long-Context Sequence Modeling",
-  "artifact_identifier": "NRL-TR-2026-0117",
-  "selected_repository": "wholetherapi/github_filesystem_pdf-tools_emails_google_calendar_2327-k2m9q4-ewr-reference-impl",
-  "selected_url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_emails_google_calendar_2327-k2m9q4-ewr-reference-impl",
-  "selected_open_issues": 3,
-  "submission_ref": "SUB-4471",
-  "maintainer_contact": "priya.nandakumar@sequencelab.dev",
-  "status": "pilot",
-  "excluded_candidates": [
-    {
-      "repository": "wholetherapi/github_filesystem_pdf-tools_emails_google_calendar_2327-k2m9q4-adaptive-window-routing-official",
-      "open_issues": 5,
-      "reason": "Off-subject repository with higher traction; does not implement the exact report."
-    },
-    {
-      "repository": "wholetherapi/github_filesystem_pdf-tools_emails_google_calendar_2327-k2m9q4-elastic-window-attention",
-      "open_issues": 4,
-      "reason": "Off-subject repository with higher traction; does not implement the exact report."
-    }
-  ]
+  "case_reference": "",
+  "artifact_title": "",
+  "artifact_identifier": "",
+  "selected_repository": "",
+  "selected_url": "",
+  "selected_open_issues": null,
+  "submission_ref": "",
+  "maintainer_contact": "",
+  "status": "",
+  "excluded_candidates": []
 }
